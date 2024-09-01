@@ -1,5 +1,8 @@
 ![preview-gif](preview.gif)
 
+# game link: # 
+`https://mazegame-palixarjuns-projects.vercel.app/`
+
 # Maze Game Code Explanation
 
 This code is for creating a maze game using the Matter.js physics engine. Here's a step-by-step explanation:
